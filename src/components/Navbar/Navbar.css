@@ -97,7 +97,8 @@
     transition: 2.5s ease;
 
     flex-direction: column;
-    z-index: 5;
+     
+    z-index: 1;
 }
 
 .app__navbar-smallscreen_overlay .overlay__close{
